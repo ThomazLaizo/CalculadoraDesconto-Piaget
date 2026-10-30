@@ -1,5 +1,3 @@
-# projetoJsPiagetVariaveisCondicionais
-Readme · MD
 # 🧮 Calculadora de Desconto
  
 Calculadora web que aplica desconto automático sobre o valor de uma compra, de acordo com faixas de preço. O usuário informa o valor, e a página mostra o percentual aplicado e o valor final. Projeto acadêmico da faculdade **Piaget**, desenvolvido para praticar **variáveis e estruturas condicionais em JavaScript**.
